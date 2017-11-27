@@ -1,0 +1,20 @@
+Received_at,Amount,Donor,Address,City,St,Zip,Phone,Designation/Memo,Month,Week,"Service
+Fee","Net
+Deposit",Check,Notes,PeopleID,payment_method,memo_modifier,fund_id,payment_source,checkNbr
+2011-01-01, $50.00 ,"Kelley, Ken",3N463 Hickory Knoll,West Chicago,IL,60185,630/231-3809,via PayPal,11-Jan, 1 , $1.40 , $48.60 ,0,,6002021,card,PayPal,100,PayPal,
+2011-01-15, $200.00 ,"Laslo, James",703 S. Illinois Ave.,Villa Park,IL,60181,,Check 5219,11-Jan, 3 ,  ,  ,1,,5995875,check,5219,100,,5219
+2011-01-21, $500.00 ,"Kelley, Sean",105 W St Charles Rd Unit 201,Lombard,IL,60148,,via PayPal,11-Jan, 4 , $11.30 , $488.70 ,0,,#N/A,card,PayPal,100,PayPal,
+2011-01-28, $200.00 ,"Laslo, James",,,,,,Check 5222,11-Jan, 5 ,  ,  ,1,,5995875,check,5222,100,,5222
+2017-11-19, $50.00 ,"Tabailloux, Paul",,,,,,CC ,17-Nov, 360 ,  ,  ,0,General Fund,16436652,card,,100,Vanco,
+2017-11-19, $10.00 ,"Dunn, Aidan",,,,,,CC ,17-Nov, 360 ,  ,  ,0,General Fund,19917618,card,,100,Vanco,
+2017-11-19, $100.00 ,"Sedig, Colton",,,,,,ACH QuickPay,17-Nov, 360 ,  ,  ,0,General Fund,23880490,ach,QuickPay,100,QuickPay,
+2017-11-19, $10.00 ,"Lyons, Nicole",,,,,,ACH QuickPay,17-Nov, 360 ,  ,  ,0,General Fund,23872979,ach,QuickPay,100,QuickPay,
+2017-11-19, $450.00 ,"Trott, Jon",,,,,,ACH QuickPay,17-Nov, 360 ,  ,  ,0,General Fund,5931365,ach,QuickPay,100,QuickPay,
+2017-11-19, $250.00 ,"Brewer, Jeff",,,,,,Check 7361,17-Nov, 360 ,  ,  ,1,General Fund,6000275,check,7361,100,,7361
+2017-11-19, $200.00 ,"Britt, Adam",,,,,,Check 533169934,17-Nov, 360 ,  ,  ,1,General Fund,5996083,check,533169934,100,,533169934
+2017-11-19, $50.00 ,"Danaher, Kathy",,,,,,Check 105,17-Nov, 360 ,  ,  ,1,General Fund,24177463,check,105,100,,105
+2017-11-19, $500.00 ,"Gasso, Mike",,,,,,Check 985,17-Nov, 360 ,  ,  ,1,General Fund,5995765,check,985,100,,985
+2017-11-19, $500.00 ,"Graham, Arin",,,,,,Check 753,17-Nov, 360 ,  ,  ,1,General Fund,28346217,check,753,100,,753
+2017-11-19, $300.00 ,"Grandlienard, Dan",,,,,,Check 6371,17-Nov, 360 ,  ,  ,1,General Fund,5995902,check,6371,100,,6371
+2017-11-19, $70.00 ,"Humphrey, John",,,,,,Check 9396,17-Nov, 360 ,  ,  ,1,General Fund,5977327,check,9396,100,,9396
+2017-10-07, $25.00 ,"Dykstra, Libby",,,,,,CC ,17-Oct, 354 ,  ,  ,0,Care and Share,16199837,card,,200,Vanco,

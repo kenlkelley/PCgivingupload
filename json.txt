@@ -1,0 +1,34 @@
+{"data": {"type": "Donation", "attributes": {"payment_method": "card", "received_at": "2011-01-01"}, "relationships": {"person": {"data": {"type": "Person", "id": "6002021"}}, "payment_source": {"data": {"type": "PaymentSource", "id": "PayPal"}}}}, "included": {"type": "Designation", "attributes": {"amount_cents": 5000}, "relationships": {"fund": {"data": {"type": "Fund", "id": 100}}}}}
+
+{"data": {"type": "Donation", "attributes": {"payment_method": "check", "received_at": "2011-01-15", "payment_check_number": "5219"}, "relationships": {"person": {"data": {"type": "Person", "id": "5995875"}}}}, "included": {"type": "Designation", "attributes": {"amount_cents": 20000}, "relationships": {"fund": {"data": {"type": "Fund", "id": 100}}}}}
+
+{"data": {"type": "Donation", "attributes": {"payment_method": "card", "received_at": "2011-01-21"}, "relationships": {"person": {"data": {"type": "Person", "id": "#N/A"}}, "payment_source": {"data": {"type": "PaymentSource", "id": "PayPal"}}}}, "included": {"type": "Designation", "attributes": {"amount_cents": 50000}, "relationships": {"fund": {"data": {"type": "Fund", "id": 100}}}}}
+
+{"data": {"type": "Donation", "attributes": {"payment_method": "check", "received_at": "2011-01-28", "payment_check_number": "5222"}, "relationships": {"person": {"data": {"type": "Person", "id": "5995875"}}}}, "included": {"type": "Designation", "attributes": {"amount_cents": 20000}, "relationships": {"fund": {"data": {"type": "Fund", "id": 100}}}}}
+
+{"data": {"type": "Donation", "attributes": {"payment_method": "card", "received_at": "2017-11-19"}, "relationships": {"person": {"data": {"type": "Person", "id": "16436652"}}, "payment_source": {"data": {"type": "PaymentSource", "id": "Vanco"}}}}, "included": {"type": "Designation", "attributes": {"amount_cents": 5000}, "relationships": {"fund": {"data": {"type": "Fund", "id": 100}}}}}
+
+{"data": {"type": "Donation", "attributes": {"payment_method": "card", "received_at": "2017-11-19"}, "relationships": {"person": {"data": {"type": "Person", "id": "19917618"}}, "payment_source": {"data": {"type": "PaymentSource", "id": "Vanco"}}}}, "included": {"type": "Designation", "attributes": {"amount_cents": 1000}, "relationships": {"fund": {"data": {"type": "Fund", "id": 100}}}}}
+
+{"data": {"type": "Donation", "attributes": {"payment_method": "ach", "received_at": "2017-11-19"}, "relationships": {"person": {"data": {"type": "Person", "id": "23880490"}}, "payment_source": {"data": {"type": "PaymentSource", "id": "QuickPay"}}}}, "included": {"type": "Designation", "attributes": {"amount_cents": 10000}, "relationships": {"fund": {"data": {"type": "Fund", "id": 100}}}}}
+
+{"data": {"type": "Donation", "attributes": {"payment_method": "ach", "received_at": "2017-11-19"}, "relationships": {"person": {"data": {"type": "Person", "id": "23872979"}}, "payment_source": {"data": {"type": "PaymentSource", "id": "QuickPay"}}}}, "included": {"type": "Designation", "attributes": {"amount_cents": 1000}, "relationships": {"fund": {"data": {"type": "Fund", "id": 100}}}}}
+
+{"data": {"type": "Donation", "attributes": {"payment_method": "ach", "received_at": "2017-11-19"}, "relationships": {"person": {"data": {"type": "Person", "id": "5931365"}}, "payment_source": {"data": {"type": "PaymentSource", "id": "QuickPay"}}}}, "included": {"type": "Designation", "attributes": {"amount_cents": 45000}, "relationships": {"fund": {"data": {"type": "Fund", "id": 100}}}}}
+
+{"data": {"type": "Donation", "attributes": {"payment_method": "check", "received_at": "2017-11-19", "payment_check_number": "7361"}, "relationships": {"person": {"data": {"type": "Person", "id": "6000275"}}}}, "included": {"type": "Designation", "attributes": {"amount_cents": 25000}, "relationships": {"fund": {"data": {"type": "Fund", "id": 100}}}}}
+
+{"data": {"type": "Donation", "attributes": {"payment_method": "check", "received_at": "2017-11-19", "payment_check_number": "533169934"}, "relationships": {"person": {"data": {"type": "Person", "id": "5996083"}}}}, "included": {"type": "Designation", "attributes": {"amount_cents": 20000}, "relationships": {"fund": {"data": {"type": "Fund", "id": 100}}}}}
+
+{"data": {"type": "Donation", "attributes": {"payment_method": "check", "received_at": "2017-11-19", "payment_check_number": "105"}, "relationships": {"person": {"data": {"type": "Person", "id": "24177463"}}}}, "included": {"type": "Designation", "attributes": {"amount_cents": 5000}, "relationships": {"fund": {"data": {"type": "Fund", "id": 100}}}}}
+
+{"data": {"type": "Donation", "attributes": {"payment_method": "check", "received_at": "2017-11-19", "payment_check_number": "985"}, "relationships": {"person": {"data": {"type": "Person", "id": "5995765"}}}}, "included": {"type": "Designation", "attributes": {"amount_cents": 50000}, "relationships": {"fund": {"data": {"type": "Fund", "id": 100}}}}}
+
+{"data": {"type": "Donation", "attributes": {"payment_method": "check", "received_at": "2017-11-19", "payment_check_number": "753"}, "relationships": {"person": {"data": {"type": "Person", "id": "28346217"}}}}, "included": {"type": "Designation", "attributes": {"amount_cents": 50000}, "relationships": {"fund": {"data": {"type": "Fund", "id": 100}}}}}
+
+{"data": {"type": "Donation", "attributes": {"payment_method": "check", "received_at": "2017-11-19", "payment_check_number": "6371"}, "relationships": {"person": {"data": {"type": "Person", "id": "5995902"}}}}, "included": {"type": "Designation", "attributes": {"amount_cents": 30000}, "relationships": {"fund": {"data": {"type": "Fund", "id": 100}}}}}
+
+{"data": {"type": "Donation", "attributes": {"payment_method": "check", "received_at": "2017-11-19", "payment_check_number": "9396"}, "relationships": {"person": {"data": {"type": "Person", "id": "5977327"}}}}, "included": {"type": "Designation", "attributes": {"amount_cents": 7000}, "relationships": {"fund": {"data": {"type": "Fund", "id": 100}}}}}
+
+{"data": {"type": "Donation", "attributes": {"payment_method": "card", "received_at": "2017-10-07"}, "relationships": {"person": {"data": {"type": "Person", "id": "16199837"}}, "payment_source": {"data": {"type": "PaymentSource", "id": "Vanco"}}}}, "included": {"type": "Designation", "attributes": {"amount_cents": 2500}, "relationships": {"fund": {"data": {"type": "Fund", "id": 200}}}}}
+
